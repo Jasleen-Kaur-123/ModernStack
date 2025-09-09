@@ -57,7 +57,7 @@ export default function Navbar() {
         <div style={{ display: "flex", alignItems: "center", gap: "20px" }}>
           <div style={{ position: "relative", cursor: "pointer" }}>
             <img
-              src="public\Images\cartIcon.png"
+              src="/Images/cartIcon.png"
               alt="Cart"
               width="28"
               height="28"
