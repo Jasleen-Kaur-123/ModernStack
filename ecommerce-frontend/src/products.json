@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "1",
+    "name": "Classic Wall Clock",
+    "price": 500,
+    "category": "Clock",
+    "image":"/Images/Image1.jpg"
+  },
+  {
+    "_id": "2",
+    "name": "Digital Table Clock",
+    "price": 700,
+    "category": "Clock",
+    "image": "/Images/Image2.jpeg"
+  },
+  {
+    "_id": "3",
+    "name": "Wooden Alarm Clock",
+    "price": 1200,
+    "category": "Clock",
+    "image": "/Images/Image3.jpg"
+  },
+  {
+    "_id": "4",
+    "name": "Analog Desk Clock",
+    "price": 800,
+    "category": "Clock",
+    "image": "/Images/Image4.jpg"
+  },
+  {
+    "_id": "5",
+    "name": "Modern Table Lamp",
+    "price": 1500,
+    "category": "Lamp",
+    "image": "/Images/Image5.jpg"
+  },
+  {
+    "_id": "6",
+    "name": "Bedside Lamp",
+    "price": 1200,
+    "category": "Lamp",
+    "image": "/Images/Image6.webp"
+  },
+  {
+    "_id": "7",
+    "name": "Decorative Floor Lamp",
+    "price": 2500,
+    "category": "Lamp",
+    "image": "/Images/Image7.webp"
+  },
+  {
+    "_id": "8",
+    "name": "Smart Bluetooth Speaker",
+    "price": 3500,
+    "category": "Speaker",
+    "image": "/Images/Image8.avif"
+  },
+  {
+    "_id": "9",
+    "name": "Portable Wireless Speaker",
+    "price": 2200,
+    "category": "Speaker",
+    "image": "/Images/Image9.jpeg"
+  },
+  {
+    "_id": "10",
+    "name": "Home Theater Speaker",
+    "price": 4500,
+    "category": "Speaker",
+    "image": "/Images/Image10.webp"
+  },
+  {
+    "_id": "11",
+    "name": "Minimalist Wall Clock",
+    "price": 900,
+    "category": "Clock",
+    "image": "/Images/Image11.jpg"
+  },
+  {
+    "_id": "12",
+    "name": "Designer Table Lamp",
+    "price": 1800,
+    "category": "Lamp",
+    "image": "/Images/Image12.jpg"
+  }
+]
